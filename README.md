@@ -38,6 +38,3 @@ Some addiotanl stats i get using the github api and the next repository : https:
 
 ---
 
-> [!NOTE]
-> Hace poco he eliminado muchos de mis proyectos para mantener este espacio mucho mas limpio , espero y pronto pueda subir mas 🫡 18.10.24
-
